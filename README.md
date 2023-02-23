@@ -17,7 +17,7 @@ A Senior full-stack web developer with over 7 years of experience in web design,
 </p>
   
 ## Languages & libraries
-
+   
 <table>
   <tr>
     <td align="center" width="96">
