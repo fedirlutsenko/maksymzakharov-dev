@@ -42,7 +42,7 @@ A Senior full-stack web developer with over 7 years of experience in web design,
       <a href="#macropower-tech">
         <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>NodeJs
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
