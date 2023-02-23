@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/web3-king"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Web%20developer;Highly%20Focus%20Leading%20Web%20and%20SEO%20Expert;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/maksymzakharov-dev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Web%20developer;Highly%20Focus%20Leading%20Web%20and%20SEO%20Expert;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <p align="center">
   <img align="center" src="./pics/web7.png" style = "width: -webkit-fill-available;"/>
@@ -16,8 +16,8 @@ A Senior full-stack web developer with over 7 years of experience in web design,
                 Above and beyond, I have a great passion for web3 which is the focus and the future of our life and I implemented DApps, DeFi, NFT Marketplaces, NFT Mint Websites, Token Launchpads. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
 </p>
   
-## Languages & libraries
-   
+# Languages & Frameworks
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -42,7 +42,7 @@ A Senior full-stack web developer with over 7 years of experience in web design,
       <a href="#macropower-tech">
         <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>NodeJs
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
